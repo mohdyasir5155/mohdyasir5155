@@ -1,5 +1,3 @@
-<img align="center" width="1000" hight="900" alt="coding"  src="https://marketsplash.com/content/images/2023/06/MarketSplash-PROGRAMMING-Cover-12-20.jpg">
-
 
 <h1 align="center">Hi 👋, I'm Mohd Yasir Sheikh</h1>
 <h3 align="center">| Frontend Developer | Making Websites Come Alive! | From India | </h3>
