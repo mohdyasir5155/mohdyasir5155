@@ -1,4 +1,4 @@
-<img align="center" width="1000" hight="900" alt="coding"  src="https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg">
+<img align="center" width="1000" hight="900" alt="coding"  src="https://marketsplash.com/content/images/2023/06/MarketSplash-PROGRAMMING-Cover-12-20.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Mohd Yasir Sheikh</h1>
