@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Website.<br>🌱 I’m currently learning Javascript.<br>🌟 I'm a Frontend Developer.<br>🍉 Lets make the code alive.<br>👌 Coding like poetry should be short and concise.
+🔭 I’m currently working on Website.<br>🌱 I’m currently learning React.<br>🌟 I'm a Frontend Developer.<br>🍉 Lets make the code alive.<br>👌 Coding like poetry should be short and concise.
 
 
 ## 🌐 Socials:
