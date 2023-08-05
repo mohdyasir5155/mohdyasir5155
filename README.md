@@ -5,7 +5,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohd Yasir Sheikh</h1>
-<h3 align="center">| Frontend Developer | Making Websites Come Alive! | From India | </h3>
+<h3 align="center"> | (Gh raisoni Btech 1st Batch 4) | <br> <hr>
+  | Frontend Developer | Making Websites Come Alive! | From India | </h3>
 
 
 # 💫 About Me:
