@@ -1,3 +1,5 @@
+---
+[![](https://visitcount.itsvg.in/api?id=mohdyasir5155&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Mohd Yasir Sheikh (1)](https://github.com/mohdyasir5155/mohdyasir5155/assets/131906472/67e437ba-2563-4ccb-9fa3-ccc3f9cde72e)
 
@@ -24,8 +26,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohdyasir5155&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohdyasir5155&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
