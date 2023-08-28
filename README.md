@@ -2,9 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=mohdyasir5155&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-![banner](https://github.com/mohdyasir5155/mohdyasir5155/assets/131906472/570a7c56-56b8-4c3a-a826-3a0f6ee25dbb)
-
+![Github-Banner png](https://github.com/mohdyasir5155/mohdyasir5155/assets/131906472/fdb1862d-9ae2-4d80-888f-8be1ef23fb32)
 
 
 <h1 align="center">Hi 👋, I'm Mohd Yasir Sheikh</h1>
