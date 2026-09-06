@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Header Banner -->
+  <img src="github-banner.png" width="100%" alt="Yasir Sheikh Banner" />
+
+  <br /><br />
+
   <!-- Header Visitor & Status Badges -->
   <p align="center">
     <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mohdyasir5155&icon=6&color=12" alt="visitor count" /></a>
