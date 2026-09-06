@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="github-banner.png" width="100%" alt="Yasir Sheikh Banner" />
+
 
   <br /><br />
 
