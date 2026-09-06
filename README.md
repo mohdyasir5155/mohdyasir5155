@@ -6,8 +6,6 @@
 
   <!-- Header Visitor & Status Badges -->
   <p align="center">
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mohdyasir5155&icon=6&color=12" alt="visitor count" /></a>
-    <a href="https://github.com/mohdyasir5155"><img src="https://img.shields.io/github/followers/mohdyasir5155?style=flat&logo=github&color=306998" alt="GitHub Followers" /></a>
     <a href="https://www.linkedin.com/in/mohd-yasir-sheikh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:mohdyasir5155@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Location-India-FF9933?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
